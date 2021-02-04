@@ -3,3 +3,5 @@ config.py
 *.csv
 *__pycache__
 *.DS_Store 
+api_key.py
+.DS_Store
