@@ -5,4 +5,4 @@ config.py
 .DS_Store
 *.DS_Store
 api_key.py
-**/.DS_Store 
+**/.DS_Store  Random 
