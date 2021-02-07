@@ -1,8 +1,0 @@
-config.py
-.ipynb_checkpoints
-*.csv
-*__pycache__
-.DS_Store
-*.DS_Store
-api_key.py
-**/.DS_Store  Random 
